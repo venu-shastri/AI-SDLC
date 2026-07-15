@@ -7,3 +7,4 @@
 - https://docs.tessl.io/introduction-to-tessl/core-concepts
 - https://circleci.com/blog/ai-sdlc/
 - https://www.linkedin.com/pulse/ai-driven-sdlc-how-build-secure-governed-scalable-withai-ran-isenberg-99nuf/
+- https://www.linkedin.com/pulse/ai-driven-sdlc-how-build-secure-governed-scalable-withai-ran-isenberg-99nuf/
