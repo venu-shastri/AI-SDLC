@@ -1,0 +1,26 @@
+GitHub Copilot (@AI-SDLC-SRS)
+            │
+            ▼
+      SRS Lead Agent
+            │
+            ▼
+ Microsoft Agent Framework
+            │
+            ▼
+      Requirement Workflow
+            │
+ ┌──────────┼───────────┐
+ │          │           │
+ ▼          ▼           ▼
+Requirement  Ambiguity  Missing
+Analyzer     Checker    Checker
+ │
+ └──────────┬───────────┘
+            ▼
+     Standards Checker
+            │
+            ▼
+      SRS Generator
+            │
+            ▼
+ Product Architect Approval
