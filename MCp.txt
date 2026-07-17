@@ -1,0 +1,12 @@
+GitHub Copilot Agent (@AI-SDLC-SRS)
+            │
+            ▼
+        MCP Server
+            │
+            ▼
+Microsoft Agent Framework Workflow
+            │
+    ├── Requirement Analyzer
+    ├── Ambiguity Checker
+    ├── Missing Requirement Checker
+    └── SRS Generator
